@@ -1,0 +1,15 @@
+1. `2020-06-14_emergency-covid.md`
+2. `2020-06-14_journey-mapping-approaches.md`
+3. `2020-06-21_mobile-app-onboarding.md`
+4. `2020-06-21_persona-types.md`
+5. `2020-06-28_avoid-pdf-for-on-screen-reading.md`
+6. `2020-06-28_emojis-email.md`
+7. `2020-07-05_journey-mapping-workshop.md`
+8. `2020-07-05_ux-roadmaps.md`
+9. `2020-07-12_common-region.md`
+10. `2020-07-12_love-at-first-sight-pattern.md`
+11. `2020-07-19_complex-data-compelling-stories.md`
+12. `2020-07-19_service-blueprinting-template.md`
+13. `2020-07-26_privacy-policies-terms-use-pages.md`
+14. `2020-07-26_remote-usability-testing-costs.md`
+15. `2020-08-02_design-principles.md`

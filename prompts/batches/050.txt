@@ -1,0 +1,15 @@
+1. `2024-11-01_screening-participants.md`
+2. `2024-11-08_ai-user-value.md`
+3. `2024-11-15_alt-text-usability.md`
+4. `2024-11-15_what-is-user-experience.md`
+5. `2024-11-22_write-alt-text.md`
+6. `2024-11-29_ux-and-cx-merge.md`
+7. `2024-11-29_ux-challenges.md`
+8. `2024-12-03_parallel-and-iterative-design.md`
+9. `2024-12-06_experience-design.md`
+10. `2024-12-06_unmoderated-user-testing-tools.md`
+11. `2024-12-13_testing-visual-design.md`
+12. `2025-01-03_prepare-for-ai.md`
+13. `2025-01-10_foldable-smartphones.md`
+14. `2025-01-10_ux-reset-2025.md`
+15. `2025-01-17_tactics-ux-job-market.md`

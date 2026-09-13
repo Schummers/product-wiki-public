@@ -1,0 +1,15 @@
+1. `2018-07-29_toggle-switch-guidelines.md`
+2. `2018-08-05_voice-assistant-attitudes.md`
+3. `2018-08-08_nielsen-norman-group-20-years.md`
+4. `2018-08-12_designing-effective-infographics.md`
+5. `2018-08-12_ecommerce-homepages-listing-pages.md`
+6. `2018-08-19_mobile-carousels.md`
+7. `2018-08-19_prominence-interpretation-theory.md`
+8. `2018-08-26_case-study-iterative-design-prototyping.md`
+9. `2018-09-02_mobile-login-china.md`
+10. `2018-09-02_quant-research-practice.md`
+11. `2018-09-09_signal-noise-ratio.md`
+12. `2018-09-09_wechat-mini-programs.md`
+13. `2018-09-16_intelligent-assistants-poor-usability-high-adoption.md`
+14. `2018-09-23_change-blindness-definition.md`
+15. `2018-09-23_collaborative-agile-activities.md`

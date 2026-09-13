@@ -1,0 +1,12 @@
+2017-05-14_sliders-knobs
+2017-05-28_customer-journey-mapping-process
+2017-06-11_drop-down-menus
+2017-06-18_dashboards-preattentive
+2017-06-25_split-buttons-navigation
+2017-07-09_service-design-101
+2017-07-16_mobile-subnavigation
+2017-07-16_user-requirements-online-ads
+2017-07-30_search-log-analysis
+2017-08-06_personas-jobs-be-done
+2017-08-13_newsletters
+2017-08-27_service-blueprints-definition

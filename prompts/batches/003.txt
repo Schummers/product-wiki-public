@@ -1,0 +1,15 @@
+1. `2016-06-19_prospect-theory.md`
+2. `2016-06-19_title-attribute.md`
+3. `2016-06-26_hamburger-menus.md`
+4. `2016-07-03_brand-experience-ux.md`
+5. `2016-07-10_centered-logos.md`
+6. `2016-07-10_customization-personalization.md`
+7. `2016-07-17_interaction-branding.md`
+8. `2016-07-24_customer-journeys-omnichannel.md`
+9. `2016-07-24_mobile-first-not-mobile-only.md`
+10. `2016-07-31_customer-journey-mapping.md`
+11. `2016-07-31_design-thinking.md`
+12. `2016-08-07_visual-indicators-differentiators.md`
+13. `2016-08-14_customization.md`
+14. `2016-08-14_outcomes-vs-features.md`
+15. `2016-08-21_direct-manipulation.md`

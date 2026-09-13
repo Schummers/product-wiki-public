@@ -1,0 +1,20 @@
+.DS_Store
+*.log
+__pycache__/
+
+# Python virtualenv for the ingestion scripts — rebuilt from
+# requirements.txt, never versioned.
+.venv/
+
+# Obsidian per-machine UI state. The vault's shared settings
+# (app.json, appearance.json, core-plugins.json) stay versioned.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+
+# Operational scrape state, resumable, local only
+nngroup_scrape_log.csv
+
+# Skills are symlinks into system/skills/product-wiki/ (see that repo's
+# system/skills/README.md). A committed symlink is broken for anyone cloning.
+.claude/skills/

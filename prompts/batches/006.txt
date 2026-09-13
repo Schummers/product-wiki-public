@@ -1,0 +1,15 @@
+1. `2016-12-18_ux-prototype-hi-lo-fidelity.md`
+2. `2016-12-18_zen-mode.md`
+3. `2017-01-01_ux-quiz-16.md`
+4. `2017-01-15_ux-ideation.md`
+5. `2017-01-15_ux-stories.md`
+6. `2017-01-22_date-input.md`
+7. `2017-01-22_sketch-test.md`
+8. `2017-02-05_remote-customer-journey-mapping.md`
+9. `2017-02-12_contextual-swipe.md`
+10. `2017-02-12_ux-research-cheat-sheet.md`
+11. `2017-02-19_3-user-experiences-reshaping-industries.md`
+12. `2017-02-19_narrative-biases.md`
+13. `2017-02-26_collaborating-stakeholders.md`
+14. `2017-02-26_context-specific-cross-channel.md`
+15. `2017-03-05_theory-user-delight.md`

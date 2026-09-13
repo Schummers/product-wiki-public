@@ -1,0 +1,15 @@
+1. `2021-09-19_empty-state-interface-design.md`
+2. `2021-09-19_ux-maturity-stage-2.md`
+3. `2021-09-26_ux-mapping-methods-study-guide.md`
+4. `2021-10-17_ia-category-outliers.md`
+5. `2021-10-17_pareto-principle.md`
+6. `2021-10-31_golden-ratio-ui-design.md`
+7. `2021-10-31_interview-sample-size.md`
+8. `2021-11-07_campbells-law.md`
+9. `2021-11-07_recruiting-screening-research-candidates.md`
+10. `2021-11-14_prioritization-methods.md`
+11. `2021-11-21_ux-maturity-stage-4.md`
+12. `2021-11-28_facilitate-ux-workshop-user-test.md`
+13. `2021-12-05_context-methods-field-diary-studies.md`
+14. `2021-12-12_long-tail.md`
+15. `2021-12-12_ux-maturity-stage-5.md`

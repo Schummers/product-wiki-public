@@ -1,0 +1,15 @@
+1. `2020-12-13_lawn-mower-pattern.md`
+2. `2021-01-03_ux-quiz-2020.md`
+3. `2021-01-10_consistency-and-standards.md`
+4. `2021-01-10_design-thinking-learners-journey.md`
+5. `2021-01-17_how-might-we-questions.md`
+6. `2021-01-17_visual-hierarchy-ux-definition.md`
+7. `2021-01-24_aesthetic-minimalist-design.md`
+8. `2021-01-31_companies-social-media.md`
+9. `2021-01-31_quantifying-case-study.md`
+10. `2021-02-07_remote-design-challenges.md`
+11. `2021-02-07_testing-content-websites.md`
+12. `2021-02-14_internal-vs-external-validity.md`
+13. `2021-02-14_proximity-consequential-options.md`
+14. `2021-02-21_dominating-workshop-participants.md`
+15. `2021-02-21_triangulation-better-research-results-using-multiple-ux-methods.md`

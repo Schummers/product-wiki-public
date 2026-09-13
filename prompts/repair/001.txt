@@ -1,0 +1,12 @@
+2016-01-24_priming
+2016-01-31_voice-interaction-ux
+2016-02-21_logo-placement-brand-recall
+2016-02-28_young-adults-flat-design
+2016-03-06_commitment-levels
+2016-03-13_internal-website-search
+2016-03-20_chunking
+2016-03-20_game-user-research
+2016-03-27_front-end-style-guides
+2016-04-10_list-entries
+2016-04-17_perceived-value
+2016-04-24_fresh-start-effect

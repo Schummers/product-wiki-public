@@ -1,0 +1,12 @@
+2016-04-24_university-sites
+2016-05-01_enhancement
+2016-05-01_web-form-design
+2016-05-08_expandable-menus
+2016-05-08_trustworthy-design
+2016-06-05_top-intranet-trends
+2016-06-19_prospect-theory
+2016-06-19_title-attribute
+2016-06-26_hamburger-menus
+2016-07-10_centered-logos
+2016-07-17_interaction-branding
+2016-07-24_mobile-first-not-mobile-only

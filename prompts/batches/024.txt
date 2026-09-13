@@ -1,0 +1,15 @@
+1. `2020-04-26_key-serp-features.md`
+2. `2020-04-26_moderated-remote-usability-test.md`
+3. `2020-05-03_benchmarking-ux.md`
+4. `2020-05-10_face-recognition-pay.md`
+5. `2020-05-17_discoveries-in-industry-revealed.md`
+6. `2020-05-17_the-need-for-speed.md`
+7. `2020-05-24_25-years-ux-wins-fails.md`
+8. `2020-05-24_design-ops-definitions.md`
+9. `2020-05-24_information-seeking-expectations.md`
+10. `2020-05-30_user-centered-intranet-redesign-steps.md`
+11. `2020-05-31_covid19-intranet-ia.md`
+12. `2020-05-31_google-baidu-serp-comparison.md`
+13. `2020-05-31_journey-map-digital-template.md`
+14. `2020-06-07_designops-maturity-low.md`
+15. `2020-06-07_rating-scales.md`

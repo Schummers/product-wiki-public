@@ -1,0 +1,15 @@
+1. `2024-01-26_mental-models.md`
+2. `2024-01-26_open-ended-questions.md`
+3. `2024-02-02_card-sorting-definition.md`
+4. `2024-02-02_response-outlining.md`
+5. `2024-02-03_aesthetic-usability-effect.md`
+6. `2024-02-09_comparison-tables.md`
+7. `2024-02-09_design-pattern-guidelines.md`
+8. `2024-02-09_qr-code-guidelines.md`
+9. `2024-02-16_perplexity-henry-modisett.md`
+10. `2024-02-16_usability-heuristics-board-games.md`
+11. `2024-02-23_card-sorting-tree-testing-differences.md`
+12. `2024-02-23_should-you-run-a-survey.md`
+13. `2024-03-01_ai-chat-not-the-answer.md`
+14. `2024-03-01_attitudinal-behavioral.md`
+15. `2024-03-08_chatgpt-and-tone.md`

@@ -1,0 +1,15 @@
+1. `2016-01-24_users-real-data.md`
+2. `2016-01-31_voice-interaction-ux.md`
+3. `2016-02-07_applying-filters.md`
+4. `2016-02-07_icon-testing.md`
+5. `2016-02-14_mobile-vs-responsive.md`
+6. `2016-02-14_revising-personas.md`
+7. `2016-02-21_logo-placement-brand-recall.md`
+8. `2016-02-28_microsoft-desirability-toolkit.md`
+9. `2016-02-28_young-adults-flat-design.md`
+10. `2016-03-06_commitment-levels.md`
+11. `2016-03-06_feature-user-test.md`
+12. `2016-03-13_duplicate-links.md`
+13. `2016-03-13_internal-website-search.md`
+14. `2016-03-20_chunking.md`
+15. `2016-03-20_game-user-research.md`

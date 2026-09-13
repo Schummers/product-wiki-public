@@ -1,0 +1,15 @@
+1. `2017-12-03_iphone-x.md`
+2. `2017-12-03_m-commerce-terrible-ux.md`
+3. `2017-12-10_bad-design-suggestions.md`
+4. `2017-12-10_practiced-patterns-mistakes.md`
+5. `2017-12-17_leading-questions.md`
+6. `2017-12-17_visual-newsletters.md`
+7. `2017-12-19_decision-framing-cognitive-bias-ux-pros.md`
+8. `2017-12-24_100-years-ux.md`
+9. `2018-01-07_ux-quiz-2017.md`
+10. `2018-01-14_empathy-mapping.md`
+11. `2018-01-16_error-prevention.md`
+12. `2018-01-21_test-tasks-quant-qualitative.md`
+13. `2018-01-28_test-when-you-know-answer.md`
+14. `2018-01-28_why-personas-fail.md`
+15. `2018-02-04_5-steps-service-blueprinting.md`

@@ -1,0 +1,15 @@
+1. `2019-06-09_why-user-interviews-fail.md`
+2. `2019-06-16_required-fields.md`
+3. `2019-06-23_steering-law.md`
+4. `2019-06-23_store-locator-links.md`
+5. `2019-06-30_attention-economy.md`
+6. `2019-06-30_popups.md`
+7. `2019-07-07_dot-voting.md`
+8. `2019-07-07_remote-ux-work-nng-case-study.md`
+9. `2019-07-14_cognitive-mind-concept.md`
+10. `2019-07-14_screening-questions-select-research-participants.md`
+11. `2019-07-21_design-operations-101.md`
+12. `2019-07-28_formative-vs-summative-evaluations.md`
+13. `2019-07-28_synchronous-asynchronous-ideation.md`
+14. `2019-08-04_layer-cake-pattern-scanning.md`
+15. `2019-08-04_ux-design-portfolios.md`

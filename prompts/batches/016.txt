@@ -1,0 +1,15 @@
+1. `2018-11-25_variable-fonts-wide-screen-layout.md`
+2. `2018-12-02_design-thinking-practitioners-say.md`
+3. `2018-12-02_mobile-checkout-ux.md`
+4. `2018-12-09_anchoring-principle.md`
+5. `2018-12-09_journey-mapping-101.md`
+6. `2018-12-16_kids-cognition.md`
+7. `2018-12-16_machine-learning-ux.md`
+8. `2018-12-23_branding-intranet.md`
+9. `2018-12-23_breadcrumbs.md`
+10. `2018-12-30_peak-end-rule.md`
+11. `2019-01-06_ux-quiz-2018.md`
+12. `2019-01-13_chat-ux.md`
+13. `2019-01-13_childrens-websites-usability-issues.md`
+14. `2019-01-20_parallax-usability.md`
+15. `2019-01-27_interpreting-research-findings.md`

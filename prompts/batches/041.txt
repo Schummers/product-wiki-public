@@ -1,0 +1,15 @@
+1. `2023-06-11_including-users-workshops.md`
+2. `2023-06-18_ai-paradigm.md`
+3. `2023-06-18_error-messages-scoring-rubric.md`
+4. `2023-06-25_how-to-conduct-a-heuristic-evaluation.md`
+5. `2023-06-25_passwordless-accounts.md`
+6. `2023-07-02_ai-powered-tools-limitations.md`
+7. `2023-07-02_quant-ux-glossary.md`
+8. `2023-07-06_ux-vs-cx.md`
+9. `2023-07-09_intranet-design.md`
+10. `2023-07-09_virtual-queue-best-practices.md`
+11. `2023-07-10_between-within-subjects.md`
+12. `2023-07-16_ai-tools-productivity-gains.md`
+13. `2023-07-16_csd-matrix.md`
+14. `2023-07-20_qual-usability-testing-study-guide.md`
+15. `2023-07-20_remote-usability-testing-study-guide.md`

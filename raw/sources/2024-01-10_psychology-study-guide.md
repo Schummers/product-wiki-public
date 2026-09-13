@@ -1,0 +1,104 @@
+---
+title: "Psychology for UX: Study Guide"
+date: "2024-01-10"
+url: "https://www.nngroup.com/articles/psychology-study-guide/"
+author: "Tanner Kohler"
+topics: [behavior-patterns, persuasive-design, psychology-and-ux, study-guide]
+type: article
+---
+
+Bringing [psychology and technology together](https://www.nngroup.com/videos/psychology-ux/) is at the heart of UX design because [UX is people](https://www.nngroup.com/videos/ux-is-people-ux-slogan-7/). However, you [do not need a degree in psychology](https://www.nngroup.com/videos/experienced-designers-go-back-college/) to understand the basics of how humans function. Most psychological principles that are relevant to UX are [easy to understand but make a big difference](https://www.nngroup.com/videos/basic-psychology/) when applied correctly. Since the beginning, NN/g has always preached that the best designs are [built for people as they really are](https://www.nngroup.com/videos/design-how-people-think/) — not who we wish they were.
+
+Don Norman (one of our principals) [calls himself a](https://www.nngroup.com/videos/cognitive-designer/)[cognitive designer](https://www.nngroup.com/videos/cognitive-designer/) because regardless of the type of products you are working on, what matters is that you design systems for how people think. The following resources will help you explore and understand many of the psychological principles that help create the best user experiences and achieve an organization’s goals.
+
+## In This Article:
+
+- [Attention](#toc-attention-1)
+- [Gestalt Principles](#toc-gestalt-principles-2)
+- [Memory](#toc-memory-3)
+- [Sensemaking](#toc-sensemaking-4)
+- [Decision Making and Choice](#toc-decision-making-and-choice-5)
+- [Motor Processes and Interaction](#toc-motor-processes-and-interaction-6)
+- [Motivation](#toc-motivation-7)
+- [Cognitive Biases](#toc-cognitive-biases-8)
+- [Persuasion and Influence](#toc-persuasion-and-influence-9)
+- [Emotion and Delight](#toc-emotion-and-delight-10)
+- [Attitudes toward Technology](#toc-attitudes-toward-technology-11)
+- [Additional Paid Resources](#toc-additional-paid-resources-12)
+
+## Attention
+
+Although most people feel like they notice everything going on around them, their ability to do so is very limited. Humans cannot focus their attention on everything at once — their brains automatically filter out anything that doesn’t seem useful.
+
+Number | Link | Format | Description | 1 | Tunnel Vision and Selective Attention | article | Users tend not to look beyond what they immediately notice — even if important info is right on the screen. | 2 | Change Blindness in UX: Definition | article | People often miss changes that are small and occur outside of their area of focus. | 3 | Change Blindness in User Interfaces | video | 4 | Change Blindness Causes People to Ignore What Designers Expect Them to See | article | Changes in certain design elements frequently go unnoticed by users. Designers must help users to notice these changes.
+
+## Gestalt Principles
+
+People perceive order in the world around them. The Gestalt principles describe heuristics that people use to decide whether certain stimuli are part of the same whole.
+
+Number | Link | Format | Description | 1 | The Gestalt Principles for User Interface Design | video | The Gestalt principles describe how people perceive visual elements and group them into bigger objects. | 2 | The Principle of Common Region: Containers Create Groupings | article | Items enclosed within the same border or container are perceived as part of the same group. | 3 | Common Region: Gestalt Principle for User Interface Design | video | 4 | Principle of Closure in Visual Design | article | People tend to fill in blanks to perceive a complete object whenever a set of external stimuli partially matches that object. | 5 | Closure: Gestalt Principle for User Interface Design | video | 6 | Similarity Principle in Visual Design | article | Elements with similar characteristics are perceived as part of the same group. | 7 | Similarity: Gestalt Principle 1 for UI Design | video | 8 | Proximity Principle in Visual Design | article | Elements that are close to each other are perceived as part of the same group. | 9 | Proximity: Gestalt Principle for User Interface Design | video | 10 | Figure/Ground: Gestalt Principle for User Interface Design | video | This principle refers to how people distinguish an object (the figure) from its background (the ground). | 11 | Continuation: Gestalt Principle for User Interface Design | video | Elements arranged in visual paths and sequences are perceived as part of the same whole. | 12 | Common Fate: Gestalt Principle for User Interface Design | video | Elements that are synchronized or coordinated in movement are perceived as part of the same group. | 13 | Connectedness: Gestalt Principle for User Interface Design | video | Explicitly connected objects are perceived as being a single unit.
+
+## Memory
+
+Human memory is limited and imperfect. The limits of human memory affect people’s ability to process information and shape the way information is stored for long periods.
+
+Number | Link | Format | Description | Memory Capacity and Limitations | 1 | Short-Term Memory and Web Usability | article | People will remember very little of what they see on the web, so designs should aid their short-term memory. | 2 | Short-Term Memory Limitations Impact User Interface Design | video | 3 | Working Memory and External Memory | article | Working memory is a type of short-term memory that stores information relevant to the current task. Systems should avoid straining users’ working memory by providing ways to offload information into an external memory. | 4 | Working Memory and External Memory | video | 5 | Memory Recognition and Recall in User Interfaces | article | User interfaces should not force users to memorize information; it should be provided for them to reference. | 6 | Usability Heuristic 6: Recognition vs. Recall in User Interfaces | video | 7 | The Magical Number 7 and UX | video | People can hold only around 7 chunks of information in their short-term memory at one time. | 8 | How Chunking Helps Content Processing | article | Present information in meaningful chunks to help people process and remember it. | 9 | Why Chunking Content is Important | video | 10 | Minimize Cognitive Load to Maximize Usability | article | Reducing extraneous cognitive load improves the usability of any interface. | 11 | What Is Cognitive Load? | video | How and Why Information Is Remembered | 12 | Priming and User Interfaces | article | Exposure to a stimulus increases people’s ability to retrieve information that is related to that stimulus. | 13 | How Priming Influences UX | video | 14 | The Peak–End Rule: How Impressions Become Memories | article | People tend to remember peak events (whether positive or negative) and final events. | 15 | Peak–End Rule: Use to Your Advantage | video | 16 | Spatial Memory: Why It Matters for UX Design | article | People remember imprecise locations of interface elements. | 17 | The Power Law of Learning: Consistency vs. Innovation in User Interfaces | article | As people are repeatedly exposed to the same stimulus, their ability to remember it increases. | 18 | 7 Tips for Memorable and Easy-to-Understand Imagery | article | Relevant, high-quality visuals placed next to associated text can enhance users’ ability to understand and remember content. | 19 | The Picture-Superiority Effect: Harness the Power of Visuals | article | People often remember visuals better than words. | 20 | How to Use the Zeigarnik Effect in UX | video | People tend to remember unfinished tasks better than completed ones.
+
+## Sensemaking
+
+People are not like cameras. They do not objectively capture information and process it the same way as anyone else would. People constantly try to make sense of the world by relying on their own experiences and understandings. However, sometimes these perceptions are accurate and sometimes they are not.
+
+Number | Link | Format | Description | 1 | Mental Models | article | The way people think something works influences how they will interact with it. | 2 | What Is a Mental Model? | video | 3 | Information Scent: How Users Decide Where to Go Next | article | Users click on links that seem most closely related to their tasks and interests. | 4 | Information Scent | video | 5 | Information Foraging: A Theory of How People Navigate on the Web | article | Users continue searching for information only when the benefit of doing so seems to outweigh the cost.
+
+## Decision Making and Choice
+
+Having more options does not always lead to greater satisfaction. Making choices (especially complex ones) is difficult and requires significant mental effort. Guiding users through decisions by making things simple will improve their experience in every context.
+
+Number | Link | Format | Description | 1 | Prospect Theory and Loss Aversion: How Users Make Decisions | article | People shy away from situations where they might lose something because they prefer sure wins. | 2 | Compensatory vs Noncompensatory: 2 Decision-Making Strategies | article | People weigh the pros and cons of each alternative only when they must choose among a small number of options. | 3 | Satisficing: Quickly Meet Users' Main Needs | article | In many situations, people will choose the first option that meets their basic criteria. | 4 | Simplicity Wins over Abundance of Choice | article | Providing more choices and options makes decision making more difficult by increasing the mental effort required of users. . | 5 | Choice Overload Impedes User Decision Making | video | 6 | More Choices More Trouble (UX Slogan 12) | video | More features in a product can easily reduce its usability. | 7 | Clean the Sludge from Decision-Making Workflows | article | Simplify decision-making workflows to help users make choices they’ll be satisfied with. | 8 | Hick's Law: Designing Long Menu Lists | video | Combining Hick’s Law with other design techniques can make long menus easy to use. | 9 | Decision Biases Affecting UX Practitioners | video | UX practitioners are people too, and thus also susceptible to decision biases. | 10 | Explicitly State the Difference Between Options | article | Clearly highlight key differences between options to help users select the right option.
+
+## Motor Processes and Interaction
+
+Interactions between humans and technology are inherently limited by human abilities and their willingness to act. To create the best user experiences, systems need to adapt to people, not people to systems.
+
+Number | Link | Format | Description | 1 | Interaction Cost | article | The total amount of resources required — both mental and physical — in any web interaction makes up the interaction cost. | 2 | Why Interaction Cost Matters to UX | video | The higher the interaction cost, the less likely it is that users will take an action. | 3 | The 3 Response Time Limits in Interaction Design | video | Users expect systems to respond quickly. Their patience varies based on the context. | 4 | Fitts's Law and Its Applications in UX | article | Users can click on page elements more quickly and accurately if they are large and close to their cursors/fingers. | 5 | Fitts's Law | video
+
+## Motivation
+
+UX designers must create usable designs, but they must also create designs that people are motivated to use. However, leveraging what we know about human motivation in ways that harm people is both unethical and harmful for a business.
+
+Number | Link | Format | Description | 1 | Autonomy, Relatedness, and Competence in UX Design | article | Meeting the three fundamental human needs increases user motivation and satisfaction. | 2 | Self-Determination Theory: Users Want Autonomy, Relatedness, and Competency | video | 3 | Three Methods to Increase User Autonomy in UX Design | article | Users appreciate the freedom to interact with designs in ways that align with their priorities | 4 | Why Designers Think Users Are Lazy: 3 Human Behaviors | article | Users aren't lazy, they're efficient: people tend to take the path of least resistance when using devices. | 5 | Users Are Not Lazy (UX Slogan #10) | video | 6 | Fresh Start Effect: How to Motivate Users with New Beginnings | article | People are more motivated to make commitments after life events that encourage new beginnings. | 7 | Video Game Engagement vs Addiction | video | Deceptive patterns used in video games make an engaging experience into a negative and addicting one. | 8 | Social Media and Gamification | video | Social media has become increasingly gamified through the quantification of traditionally qualitative interactions.
+
+## Cognitive Biases
+
+Patterns that describe systematic ways in which people deviate from rational thinking are often called *biases* or *heuristics*. These biases are mental shortcuts people use to save themselves from doing extra mental work when making sense of the world.
+
+Number | Link | Format | Description | 1 | You Are Not the User: The False-Consensus Effect | article | People tend to think that others have the same views and attitudes as themselves. | 2 | The Halo Effect | article | People judge a person or thing based on a single observed attribute. | 3 | The Halo Effect in UX Design | video | 4 | Confirmation Bias in UX | article | People (including UX practitioners) tend to seek out information they agree with and reject information they don't agree with. | 5 | Confirmation Bias in UX Work | video | 6 | The Availability Heuristic | video | People overestimate the prevalence and importance of information they were recently exposed to. | 7 | The Negativity Bias in User Experience | article | People give more attention to negative comments and experiences than to positive ones. | 8 | The Negativity Bias in a User's Experience | video | 9 | The Anchoring Principle | article | Initial information that a person is exposed to can affect their subsequent decisions. | 10 | How Anchoring Influences UX | video | 11 | Decision Frames: How Cognitive Biases Affect UX Practitioners | article | The way information is presented changes how it is interpreted and what decisions are made. | 12 | Survey-Response Biases in User Research | video | Because of certain predictable biases, respondents will not answer honestly in badly written surveys. | 13 | Functional Fixedness Stops You from Having Innovative Ideas | article | Becoming fixated on one way of seeing a problem makes it difficult to come up with varied and creative solutions. | 14 | The Hawthorne Effect or Observer Bias in User Research | article | People often modify their behavior if they know they are being observed. | 15 | The Danger of Defaults | video | People generally do not change defaults.
+
+## Persuasion and Influence
+
+Although they may not realize it, many people are not firmly decided on a course of action until they take it. Psychology describes how people give weight to certain types of information as they choose courses of action and the factors that can nudge their decisions.
+
+Trust is foundational to all relationships — including relationships between users and websites. It is important for designs to establish credibility and win users’ trust to develop a long-term relationship.
+
+Number | Link | Format | Description | 1 | The Reciprocity Principle: Give Before You Take in Web Design | article | When people are given something freely, they generally feel a need to repay the kind gesture. | 2 | Social Proof in the User Experience | article | People reference opinions and behaviors of others to guide their own behaviors. | 3 | Social Proof in UX | video | 4 | The 'Liking' Principle in User Interface Design | article | People are persuaded by the opinions and actions of those they like and are similar to. | 5 | Scarcity Principle: Making Users Click RIGHT NOW or Lose Out | article | When people have limited access to a resource, they perceive it to be more valuable. | 6 | The Scarcity Principle in UX: Don't Miss Out! | video | 7 | The Authority Principle | article | Those with recognized authority (in virtually any domain) hold strong persuasive power over others. | 8 | The Principle of Commitment and Behavioral Consistency | article | Someone committed to a course of action feels pressure to follow through with it. | 9 | Deceptive Patterns in UX: How to Recognize and Avoid Them | article | Deceptive patterns are design choices that make it more difficult for a user to take their desired actions. | 10 | What Makes a Dark UI Pattern? | video | 11 | Don’t Trick Users: 2 Ways to Avoid Deceptive Design Patterns | video | A few careful considerations can help designers avoid deceptive patterns. | 12 | Sneaking: The Deceptive UX Pattern You Never Saw Coming | article | Sneaking refers to a deceptive pattern that tricks customers into agreeing to something they did not intend to. | 13 | The Rhetorical Triangle for Stakeholders: Make Your Point and Get Your Way | article | Logic, credibility, and emotional appeal craft a convincing argument. | 14 | Persuasive Design: New Captology Book | article | Jakob Nielsen summarizes a book on persuasive design written by B.J. Fogg. | Trust | 15 | Hierarchy of Trust: The 5 Experiential Levels of Commitment | article | Users do not want to commit to an ongoing relationship and share personal information before they trust an organization. | 16 | Pyramid of Trust | video | 17 | Trustworthiness in Web Design: 4 Credibility Factors | article | Certain design choices have power to help or hurt users' trust in a website. | 18 | Creepiness–Convenience Tradeoff | article | People weigh the advantages and the dangers associated with sharing personal data. | 19 | Prominence-Interpretation Theory | article | When evaluating users' credibility perceptions, first identify which page elements they notice, then what they think of them.
+
+## Emotion and Delight
+
+Don Norman wrote, “without emotions, your decision-making ability would be impaired.” Emotions play a critical role in daily functioning and determine which experiences will delight people.
+
+Number | Link | Format | Description | 1 | Emotional Design | video | Emotions are an important part of human functioning. | 2 | The 3 Levels of Emotional Processing | video | Humans tend to have emotional reactions to products at three levels: visceral, behavioral, and reflective. | 3 | Three Pillars of User Delight | article | Some methods are better than others for evaluating visceral, behavioral, and reflective delight. | 4 | A Theory of User Delight: Why Usability Is the Foundation for Delightful Experiences | article | Designs can delight users at two levels: on the surface and on a deep, fundamental level. | 5 | The Aesthetic-Usability Effect | article | When a design is attractive users tend to perceive it as easier to use (whether it really is or not). | 6 | The Aesthetic Usability Effect and Prioritizing Appearance vs. Functionality | video | Functionality and usability should not be sacrificed to prioritize an attractive appearance. | 7 | You Can't Impose Joy (UX Slogan #3) | video | Users ultimately experience joy by getting something done, not from creative visuals. | 8 | First Impressions Matter: How Designers Can Support Humans’ Automatic Cognitive Processing | article | The initial visceral reactions users have to a design affect their subsequent experiences with it and perceptions of it. | 9 | The ELIZA Effect: Why We Love AI | article | People attribute human-like characteristics to systems that reflect their personality back to them. | 10 | The ELIZA Effect: Why We Fall in Love With AI | video
+
+## Attitudes toward Technology
+
+The way people use technology affects their lives. Designers must take care to impact people in positive ways through the designs they create.
+
+Number | Link | Format | Description | 1 | The Vortex: Why Users Feel Trapped in Their Devices | article | Users begin with one task and then get sucked into "the vortex" by getting distracted. This often causes negative emotional reactions. | 2 | Why Users Feel Trapped in Their Devices: The Vortex | video | 3 | Children’s Exposure to Digital Technology Causes Parental Anxiety | article | Many parents have strong concerns about the effects of technology on their children.
+
+## Additional Paid Resources
+
+Books:
+
+- [Emotional Design: Why We Love (Or Hate) Everyday Things](https://www.nngroup.com/books/emotional-design/)
+- [Human Information Processing: Introduction to Psychology](https://www.nngroup.com/books/human-information-processing-introduction-psycholo/)
+- [Explorations in Cognition](https://www.nngroup.com/books/explorations-in-cognition/)
+- [Learning and Memory: A Primer](https://www.nngroup.com/books/learning-and-memory/)

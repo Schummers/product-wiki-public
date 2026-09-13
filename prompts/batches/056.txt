@@ -1,0 +1,15 @@
+1. `2025-10-24_ai-prototyping.md`
+2. `2025-10-24_edge-cases.md`
+3. `2025-10-31_ai-research-ops.md`
+4. `2025-11-07_research-recommendation-breakage.md`
+5. `2025-11-14_good-visual-design.md`
+6. `2025-11-14_smart-home-users.md`
+7. `2025-11-21_ux-research-workshops.md`
+8. `2025-11-28_contextual-menus-guidelines.md`
+9. `2025-11-28_diary-study-entries.md`
+10. `2025-12-05_smart-homes-user-value.md`
+11. `2025-12-05_vague-prototyping.md`
+12. `2025-12-12_explainable-ai.md`
+13. `2025-12-12_top-articles-2025.md`
+14. `2025-12-18_web-ux-study-guide.md`
+15. `2025-12-19_ai-ad.md`

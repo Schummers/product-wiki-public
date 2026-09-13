@@ -1,0 +1,15 @@
+1. `2017-06-04_checklist-registration-login.md`
+2. `2017-06-04_most-hated-advertising-techniques.md`
+3. `2017-06-11_drop-down-menus.md`
+4. `2017-06-18_dashboards-preattentive.md`
+5. `2017-06-18_ux-design-ecommerce.md`
+6. `2017-06-25_split-buttons-navigation.md`
+7. `2017-06-25_wizards.md`
+8. `2017-07-02_facilitating-design-studio-workshop.md`
+9. `2017-07-09_service-design-101.md`
+10. `2017-07-16_mobile-subnavigation.md`
+11. `2017-07-16_user-requirements-online-ads.md`
+12. `2017-07-23_homepage-links.md`
+13. `2017-07-23_small-pictures-big-screens.md`
+14. `2017-07-30_functional-fixedness.md`
+15. `2017-07-30_search-log-analysis.md`

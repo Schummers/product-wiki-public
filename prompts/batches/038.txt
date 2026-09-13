@@ -1,0 +1,15 @@
+1. `2022-12-04_answer-ux-job-interview-questions.md`
+2. `2022-12-04_ux-mapping-methods-visual-design-guide.md`
+3. `2022-12-11_automating-research-workflows.md`
+4. `2022-12-11_time-zone-selectors.md`
+5. `2022-12-18_journey-map-how-much-time.md`
+6. `2023-01-01_state-mobile-ux.md`
+7. `2023-01-08_journey-mapping-how.md`
+8. `2023-01-08_personas-are-living-documents.md`
+9. `2023-01-12_mobile-ux-study-guide.md`
+10. `2023-01-15_groupthink-in-ux.md`
+11. `2023-01-15_maintain-ux-portfolio.md`
+12. `2023-01-29_better-diary-studies.md`
+13. `2023-01-29_castle-framework.md`
+14. `2023-02-05_discovery-in-agile.md`
+15. `2023-02-05_omnichannel-journeys-cx-study-guide.md`

@@ -1,0 +1,15 @@
+1. `2019-08-11_3-click-rule.md`
+2. `2019-08-11_cognitive-mapping-user-research.md`
+3. `2019-08-18_eyetracking-setup.md`
+4. `2019-08-25_large-devices-important-tasks.md`
+5. `2019-08-25_text-scanning-patterns-eyetracking.md`
+6. `2019-09-01_b2b-trust-from-b2c.md`
+7. `2019-09-01_cancel-vs-close.md`
+8. `2019-09-08_parking-lots.md`
+9. `2019-09-08_usability-for-senior-citizens.md`
+10. `2019-09-15_cx-organizational-fluidity.md`
+11. `2019-09-29_treemaps.md`
+12. `2019-10-06_survey-questions-iterative-design.md`
+13. `2019-10-06_ux-agile-backlog.md`
+14. `2019-10-13_exit-intent-good-ux.md`
+15. `2019-10-13_vanity-metrics.md`

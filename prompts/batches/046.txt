@@ -1,0 +1,15 @@
+1. `2024-03-15_homepage-design-principles.md`
+2. `2024-03-15_skeuomorphism.md`
+3. `2024-03-22_calculator-expectations.md`
+4. `2024-03-22_generative-ui.md`
+5. `2024-03-29_diary-studies.md`
+6. `2024-03-29_new-ai-users-onboarding.md`
+7. `2024-04-05_breakpoints-in-responsive-design.md`
+8. `2024-04-05_plan-research-ai.md`
+9. `2024-04-12_3-types-calculator.md`
+10. `2024-04-12_ai-design-tools-not-ready.md`
+11. `2024-04-19_recommendations-calculator.md`
+12. `2024-04-19_wizard-of-oz.md`
+13. `2024-04-26_affinity-diagram.md`
+14. `2024-04-26_picture-superiority-effect.md`
+15. `2024-05-03_7-tips-memorable-imagery.md`

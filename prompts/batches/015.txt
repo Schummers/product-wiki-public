@@ -1,0 +1,15 @@
+1. `2018-09-30_recommendation-expectations.md`
+2. `2018-10-07_store-finders-and-locators.md`
+3. `2018-10-14_natural-mappings.md`
+4. `2018-10-21_intelligent-assistant-user-needs.md`
+5. `2018-10-21_microinteractions.md`
+6. `2018-10-28_changing-shopper-behaviors.md`
+7. `2018-10-28_device-vortex.md`
+8. `2018-11-04_intranet-merger-or-acquisition.md`
+9. `2018-11-04_recommendation-guidelines.md`
+10. `2018-11-04_wishlist-or-cart.md`
+11. `2018-11-11_input-steppers.md`
+12. `2018-11-11_ux-debt.md`
+13. `2018-11-18_filling-silence-digital-noise.md`
+14. `2018-11-18_push-notification.md`
+15. `2018-11-25_chatbots.md`

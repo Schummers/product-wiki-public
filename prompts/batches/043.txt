@@ -1,0 +1,15 @@
+1. `2023-09-24_accordion-editing-apple-picking.md`
+2. `2023-09-24_confounding-variables-quantitative-ux.md`
+3. `2023-09-24_generative-ai-diary.md`
+4. `2023-10-01_ai-bot-comparison.md`
+5. `2023-10-01_in-page-links-content-navigation.md`
+6. `2023-10-06_eliza-effect-ai.md`
+7. `2023-10-06_table-of-contents.md`
+8. `2023-10-13_career-progression-practitioners.md`
+9. `2023-10-13_content-dispersion.md`
+10. `2023-10-20_anthropomorphism.md`
+11. `2023-10-20_common-knowledge-effect.md`
+12. `2023-10-27_ai-intranet-features.md`
+13. `2023-10-27_ai-roles-ux.md`
+14. `2023-11-03_ai-ux-getting-started.md`
+15. `2023-11-03_interactive-ux-maps.md`

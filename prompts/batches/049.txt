@@ -1,0 +1,15 @@
+1. `2024-09-06_digital-icons-ux-quiz.md`
+2. `2024-09-13_free-ux-templates.md`
+3. `2024-09-13_how-ai-works.md`
+4. `2024-09-20_ai-intern.md`
+5. `2024-09-20_ai-sparkles-icon-problem.md`
+6. `2024-09-27_7-tips-discovery.md`
+7. `2024-09-27_research-with-ai.md`
+8. `2024-10-04_how-to-test-digital-icons.md`
+9. `2024-10-04_sneaking.md`
+10. `2024-10-11_discovery-mindset.md`
+11. `2024-10-18_journey-centric-design.md`
+12. `2024-10-18_ui-accelerators.md`
+13. `2024-10-25_product-ux-glossary.md`
+14. `2024-10-25_technology-myths.md`
+15. `2024-11-01_pm-research-plan.md`

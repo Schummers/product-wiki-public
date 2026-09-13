@@ -1,0 +1,15 @@
+1. `2017-08-06_personas-jobs-be-done.md`
+2. `2017-08-13_group-ideation.md`
+3. `2017-08-13_newsletters.md`
+4. `2017-08-20_get-started.md`
+5. `2017-08-20_talking-head-video.md`
+6. `2017-08-27_back-to-top.md`
+7. `2017-08-27_service-blueprints-definition.md`
+8. `2017-09-03_credibility-china.md`
+9. `2017-09-03_flat-ui-less-attention-cause-uncertainty.md`
+10. `2017-09-10_audio-signifiers-voice-interaction.md`
+11. `2017-09-10_no-validate-in-ux.md`
+12. `2017-09-17_mobile-tables.md`
+13. `2017-09-17_ux-research-goals-to-scenarios.md`
+14. `2017-09-24_presenting-remotely.md`
+15. `2017-10-01_first-impressions-human-automaticity.md`

@@ -1,0 +1,15 @@
+1. `2018-02-04_authority-principle.md`
+2. `2018-02-11_measuring-perceived-usability.md`
+3. `2018-02-18_confirmation-dialog.md`
+4. `2018-02-25_ux-expert-reviews.md`
+5. `2018-03-04_commitment-consistency-ux.md`
+6. `2018-03-11_two-ux-gulfs-evaluation-execution.md`
+7. `2018-03-25_post-it-in-ux.md`
+8. `2018-04-08_multivariate-testing.md`
+9. `2018-04-15_scrolling-and-attention.md`
+10. `2018-04-22_banner-blindness-old-and-new-findings.md`
+11. `2018-04-22_quantitative-user-research-methods.md`
+12. `2018-04-29_unsubscribe-mistakes.md`
+13. `2018-04-29_working-memory-external-memory.md`
+14. `2018-05-06_annoying-ads-cost-business.md`
+15. `2018-05-13_polyhierarchy.md`

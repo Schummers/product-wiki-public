@@ -1,0 +1,15 @@
+1. `2023-11-10_ai-conversation-types.md`
+2. `2023-11-10_cookie-permissions.md`
+3. `2023-11-17_smartwatch-interactions.md`
+4. `2023-11-24_ai-prompt-structure.md`
+5. `2023-11-24_surveys-design-cycle.md`
+6. `2023-12-01_deceptive-patterns.md`
+7. `2023-12-01_smartwatch-app.md`
+8. `2023-12-08_scroll-fading-101.md`
+9. `2024-01-05_competitive-usability-evaluations.md`
+10. `2024-01-10_psychology-study-guide.md`
+11. `2024-01-12_field-studies.md`
+12. `2024-01-12_sycophancy-generative-ai-chatbots.md`
+13. `2024-01-15_recognition-and-recall.md`
+14. `2024-01-17_indicators-validations-notifications.md`
+15. `2024-01-19_interpreting-tree-test-results.md`

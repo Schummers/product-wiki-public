@@ -1,0 +1,508 @@
+{
+"8-Point Grid": [
+"8-point Grid"
+],
+"A-B Testing": [
+"A/B Testing",
+"AB Testing"
+],
+"AI Agent": [
+"Agent IA"
+],
+"AI Prototyping": [
+"Prototypage IA"
+],
+"AI in Design": [
+"Intelligence Artificielle en Design"
+],
+"Accessibility": [
+"Accessibilité",
+"Accessibilité Web",
+"Web Accessibility"
+],
+"Action Control": [],
+"Affinity Mapping": [],
+"App Clips": [],
+"App Intents": [],
+"Apple Intelligence Entities": [],
+"Artificial Intelligence": [
+"Intelligence Artificielle",
+"IA",
+"AI"
+],
+"Atomic Design": [],
+"Auto Layout": [
+"Auto-layout"
+],
+"Autocomplete": [
+"Autocomplétion"
+],
+"Autofill": [
+"Auto-remplissage"
+],
+"Automation": [
+"Automatisation"
+],
+"Bastien and Scapin Heuristics": [
+"Heuristiques de Bastien & Scapin"
+],
+"Benchmarking": [
+"Benchmark"
+],
+"Brag Document": [],
+"Brainstorming": [],
+"Brainwriting": [],
+"Business Impact": [],
+"Business Metrics": [],
+"Business Strategy": [
+"Stratégie d'Entreprise"
+],
+"CSS Grid": [],
+"Call to Action": [
+"Call to Action (CTA)",
+"CTA"
+],
+"Canvas": [],
+"CarPlay": [],
+"Card Sorting": [
+"Card Sorting (Tri de cartes)",
+"Tri de cartes"
+],
+"Case Study": [],
+"Change Management": [],
+"Checkbox": [],
+"Churn": [
+"Churn Rate",
+"Taux de churn"
+],
+"Code Generation": [
+"Génération de code"
+],
+"Cognitive Load": [
+"Charge cognitive"
+],
+"Cold Calls": [],
+"Cold Start": [],
+"Component Properties": [],
+"Concept Map": [],
+"Confirmation Bias": [
+"Biais de confirmation",
+"Biais de validation"
+],
+"Content Automation": [
+"Automatisation de contenu"
+],
+"Content Curation": [],
+"Content Generation": [],
+"Contextual Triggers": [
+"Déclencheurs contextuels"
+],
+"Conversational Agent": [
+"Agent Conversationnel"
+],
+"Conversational Interface": [
+"Interface Conversationnelle / Chatbot",
+"Interface Conversationnelle - Chatbot",
+"Chatbot"
+],
+"Conversion": [
+"Conversion Rate",
+"Taux de conversion"
+],
+"Cost-Impact Evaluation": [
+"Évaluation Coût-Impact"
+],
+"Crazy Eights": [
+"Crazy 8",
+"Crazy 8s"
+],
+"Cross-Device Interaction": [
+"Cross-device Interaction"
+],
+"Custom Cursor": [
+"Curseur sur mesure"
+],
+"Daily Prioritization": [
+"Priorisation quotidienne"
+],
+"Dark Pattern": [],
+"Data Analytics": [],
+"Data-Driven Decision": [
+"Data-driven Decision"
+],
+"Deep Delight": [],
+"Deep Work": [
+"Focus / Deep Work",
+"Focus - Deep Work"
+],
+"Default Focus": [],
+"Deproductization": [
+"Déproductisation"
+],
+"Design Guilds": [],
+"Design System": [],
+"Design Token Modes": [
+"Design Tokens / Modes",
+"Design Tokens - Modes"
+],
+"Design Tokens": [],
+"Design Trend Watching": [
+"Veille Design"
+],
+"Design to Code": [],
+"DesignOps": [
+"Design Ops"
+],
+"Developer Console": [
+"Console de développement"
+],
+"Device Lifecycle": [
+"Cycle de vie des appareils"
+],
+"Discoverability": [
+"Découvrabilité"
+],
+"Discovery and Delivery": [
+"Discovery / Delivery",
+"Discovery - Delivery"
+],
+"Dot Voting": [
+"Dot Scoring"
+],
+"Double Diamond": [
+"Double Diamant",
+"Process Double Diamant"
+],
+"EAS Framework": [
+"Framework EAS"
+],
+"Easter Egg": [],
+"Edge Case": [
+"Edge Cases"
+],
+"Embeddings": [],
+"Emotional Design": [],
+"Empty State": [],
+"Entry Point": [
+"Point d'entrée"
+],
+"Event-Based Analytics": [],
+"Excel Test": [],
+"Eye Tracking": [],
+"Fake Door": [
+"Fake Door (Faux point d'entrée)",
+"Faux point d'entrée",
+"Fake door"
+],
+"False Positives": [
+"Faux positifs"
+],
+"Few-Shot Prompting": [],
+"Figma API": [
+"API Figma"
+],
+"Figma Design": [],
+"Figma Make": [],
+"Figma Slots": [],
+"Figma": [],
+"Flatten": [
+"Flatten (Aplatir)",
+"Aplatir"
+],
+"Founding Product Designer": [],
+"Function Calling": [],
+"Funnel": [],
+"GDPR": [
+"RGPD"
+],
+"Generative AI": [
+"Intelligence Artificielle générative"
+],
+"Generative Engine Optimization": [
+"GEO (Generative Engine Optimization)",
+"GEO"
+],
+"Generative UI Assets": [],
+"Golden Scenario": [],
+"Hidden Layers": [],
+"Hover State": [
+"Focus / Hover State",
+"Focus - Hover State"
+],
+"Image Generation": [
+"Génération d'images"
+],
+"In-App Feedback": [
+"Feedback in-app"
+],
+"In-Page Tabs": [
+"In-page tabs"
+],
+"Inline Information": [
+"Information Inline"
+],
+"Input Time": [
+"Temps d'input"
+],
+"Intent-Driven Design": [
+"Intent Driven Design"
+],
+"Interviewer Metrics": [],
+"Iteration": [
+"Itération"
+],
+"Just-in-Time Design": [],
+"Kanban": [],
+"Keyboard Shortcuts": [
+"Raccourcis Clavier"
+],
+"Keyboard Type": [],
+"Large Language Model": [
+"LLM",
+"LLMs",
+"LLM (Large Language Model)",
+"LLM (Large Language Models)",
+"Large Language Model (LLM)"
+],
+"Layer Management": [],
+"Liquid Glass": [],
+"Liquid Morphing": [],
+"Live Activity": [],
+"Live Concept Voting": [
+"Live concept voting"
+],
+"Local LLM": [],
+"Lovable": [],
+"Low Delight": [],
+"Magic Button": [],
+"Make It Pop": [
+"Make it pop"
+],
+"Memory Usage": [],
+"Micro-Prototyping": [
+"Micro-prototypage"
+],
+"Minimalism": [
+"Minimalisme"
+],
+"Minimum Viable Product": [
+"MVP",
+"MVP (Minimum Viable Product)"
+],
+"Mobile Prototyping": [],
+"Modal Window": [
+"Fenêtre Modale"
+],
+"Model Context Protocol": [
+"MCP (Model Context Protocol)",
+"MCP",
+"Model Context Protocol (MCP)"
+],
+"Modular Architecture": [
+"Architecture modulaire"
+],
+"Motivational Segmentation": [],
+"Native Cursor": [
+"Curseur natif"
+],
+"Native Scroll Edge Effect": [],
+"Natural Language Interface": [
+"Interface en Langage Naturel"
+],
+"Next.js": [],
+"No-Code Tools": [
+"Outils No-Code"
+],
+"No-Code Website Builder": [
+"Website Builder / No-code",
+"Website Builder - No-code"
+],
+"Node": [
+"Nœud (Node)",
+"Nœud"
+],
+"Non-Modal Window": [
+"Fenêtre Non Modale"
+],
+"Notion": [],
+"Object-Oriented UX": [
+"Object Oriented UX",
+"OOUX"
+],
+"Onboarding": [],
+"Open Source": [],
+"Opinionated Design": [],
+"Out of the Box": [
+"Out of the box"
+],
+"Overlay": [],
+"Pass-Through": [
+"Pass-through"
+],
+"Pattern Library": [],
+"Paywall": [],
+"Perceived Performance": [],
+"Performance Review": [],
+"Pixel Perfect": [],
+"Placeholder": [],
+"Podcast Format": [],
+"Portfolio": [],
+"Post-It Trashing": [
+"Post-it trashing"
+],
+"Power Usage Effectiveness": [
+"PUE (Power Usage Effectiveness)",
+"PUE"
+],
+"Pre-Prompt": [
+"Pré-prompt"
+],
+"Proactivity": [
+"Proactivité"
+],
+"Probe Testing": [
+"Probe testing"
+],
+"Product Builder": [],
+"Product Delight": [],
+"Product Design": [],
+"Product Discovery": [
+"Discovery"
+],
+"Product Documentation": [
+"Documentation",
+"Documentation Produit"
+],
+"Product Strategy": [],
+"Product-Market Fit": [
+"Product Market Fit",
+"Product Market Fit (PMF)",
+"PMF"
+],
+"Productivity": [
+"Productivité"
+],
+"Progressive Disclosure": [
+"Accès progressif à l'information"
+],
+"Prompt Engineering": [],
+"Proof of Concept": [
+"Proof of Concept (POC)",
+"POC"
+],
+"Proof of Thought": [],
+"Prototyping": [
+"Prototypage",
+"Prototype"
+],
+"Radio Button": [],
+"Rapid Prototyping": [
+"Prototypage Rapide"
+],
+"Real-Time Collaboration": [
+"Collaboration en temps réel"
+],
+"Reliability and Repeatability": [
+"Fiabilité et Répétabilité"
+],
+"Replit": [],
+"Return Key": [],
+"Search Intent Analysis": [],
+"Semantic Components": [
+"Composants Sémantiques"
+],
+"Semantic Search": [
+"Recherche Sémantique"
+],
+"Semantic Tokens": [
+"Tokens Sémantiques"
+],
+"Session Recording": [],
+"Session-Based Analytics": [],
+"Sketching": [],
+"Software Development": [
+"Développement"
+],
+"Spatial Computing": [],
+"Spatial Memory": [
+"Mémoire spatiale"
+],
+"Spotlight Search": [
+"Recherche Spotlight"
+],
+"Storytelling": [],
+"Supabase": [],
+"Surface Delight": [],
+"Sustainable Design": [
+"Éco-conception"
+],
+"Sustainable Growth": [
+"Croissance Soutenable"
+],
+"Svelte": [],
+"SwiftUI": [],
+"Tab Bar": [
+"Tab bar"
+],
+"Tap Area": [],
+"Task Chunking": [],
+"Time Blocking": [],
+"Time to Value": [
+"Time to value"
+],
+"Toggle Switch": [],
+"Toolbar": [],
+"Tracking Plan": [],
+"Trade-Off": [
+"Trade-off"
+],
+"UX Audit": [
+"Audit UX"
+],
+"UX Design": [],
+"UX Research": [
+"User Research"
+],
+"UX Writing": [],
+"Usability Testing": [
+"Test d'usabilité",
+"User Testing"
+],
+"User Experience": [
+"User Experience (UX)",
+"UX"
+],
+"User Flow": [],
+"User Friction": [
+"Friction Utilisateur"
+],
+"User Interface": [
+"User Interface (UI)",
+"UI"
+],
+"User Retention": [],
+"User-Centered Design": [
+"User-Centric Design"
+],
+"User-Centric AI": [],
+"Vibe Coding": [],
+"Vibe Design": [],
+"Visual Search": [],
+"Visual and Audio Feedback": [
+"Feedback visuel et sonore"
+],
+"Widgets": [],
+"Windsurf": [
+"Winesurf"
+],
+"Wireframing": [
+"Wireframing / Idéation sur papier",
+"Wireframing - Idéation sur papier",
+"Idéation sur papier"
+],
+"Workaround": [
+"Solution de contournement"
+],
+"Wow Moment": [],
+"Xcode": []
+}

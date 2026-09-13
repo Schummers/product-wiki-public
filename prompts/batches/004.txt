@@ -1,0 +1,15 @@
+1. `2016-08-21_wechat-integrated-ux.md`
+2. `2016-08-28_ux-success-agile.md`
+3. `2016-09-04_employees-user-test.md`
+4. `2016-09-04_mobile-behavior-india.md`
+5. `2016-09-11_customer-service-omnichannel-ux.md`
+6. `2016-09-11_universal-navigation.md`
+7. `2016-09-18_augmented-reality-ux.md`
+8. `2016-09-18_design-thinking-team-building.md`
+9. `2016-09-25_ia-warning-signs-analytics.md`
+10. `2016-09-25_qualitative-surveys.md`
+11. `2016-10-02_personalization.md`
+12. `2016-10-09_frequency-recency.md`
+13. `2016-10-16_journey-mapping-ux-practitioners.md`
+14. `2016-10-16_omnichannel-consistency.md`
+15. `2016-10-16_wechat-qr-shake.md`

@@ -1,0 +1,15 @@
+1. `2023-02-12_onboarding-tutorials.md`
+2. `2023-02-12_using-empathy-maps.md`
+3. `2023-02-19_resumes-ux-students-and-graduates.md`
+4. `2023-02-19_tips-user-research-field.md`
+5. `2023-02-26_10-survey-challenges.md`
+6. `2023-02-26_mood-boards.md`
+7. `2023-03-05_why-does-a-design-look-good-part2.md`
+8. `2023-03-12_healthcare-customer-journeys.md`
+9. `2023-03-12_strategy-study-guide.md`
+10. `2023-03-19_affinity-diagramming-pitfalls.md`
+11. `2023-03-26_user-feedback.md`
+12. `2023-03-26_ux-basics-study-guide.md`
+13. `2023-04-02_chatgpt-productivity.md`
+14. `2023-04-09_ux-internship-tips.md`
+15. `2023-04-16_3-ia-mistakes.md`

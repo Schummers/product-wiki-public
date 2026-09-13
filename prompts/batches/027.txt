@@ -1,0 +1,15 @@
+1. `2020-10-11_refine-remodel.md`
+2. `2020-10-11_spatial-memory.md`
+3. `2020-10-18_state-switch-buttons.md`
+4. `2020-10-25_compensatory-noncompensatory-decisions.md`
+5. `2020-10-25_mail-ballot-usability.md`
+6. `2020-11-01_roadmap-types.md`
+7. `2020-11-01_ux-gains-shrinking.md`
+8. `2020-11-08_augmented-reality-useful.md`
+9. `2020-11-08_complex-application-design.md`
+10. `2020-11-22_flexibility-efficiency-heuristic.md`
+11. `2020-11-29_roadmapping-steps.md`
+12. `2020-11-29_user-control-and-freedom.md`
+13. `2020-12-06_augmented-reality-ecommerce-guidelines.md`
+14. `2020-12-06_contextual-inquiry.md`
+15. `2020-12-13_help-and-documentation.md`

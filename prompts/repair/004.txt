@@ -1,0 +1,12 @@
+2016-10-23_design-critiques
+2016-10-23_negativity-bias-ux
+2016-10-30_observer-guidelines
+2016-10-30_power-law-learning
+2016-10-30_top-10-enduring
+2016-11-06_cards-component
+2016-11-06_china-website-complexity
+2016-11-13_computer-skill-levels
+2016-11-13_return-visits-not-bounce
+2016-11-20_ux-thanks
+2016-11-27_app-lockers
+2016-11-27_top-intranet-design-mistakes

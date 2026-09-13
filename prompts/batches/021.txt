@@ -1,0 +1,15 @@
+1. `2019-10-20_measure-learnability.md`
+2. `2019-10-20_service-blueprinting-practice.md`
+3. `2019-10-27_unmoderated-usability-testing.md`
+4. `2019-11-03_mobile-microsessions.md`
+5. `2019-11-10_design-ops-faq.md`
+6. `2019-11-10_information-foraging.md`
+7. `2019-11-17_pinball-pattern-search-behavior.md`
+8. `2019-11-24_cloud-storage.md`
+9. `2019-12-01_service-blueprinting-faq.md`
+10. `2019-12-01_usability-testing-101.md`
+11. `2019-12-08_5-ux-workshops.md`
+12. `2019-12-15_tracking-questions-assumptions-facts-agile.md`
+13. `2019-12-22_how-to-get-stakeholders-to-sketch.md`
+14. `2019-12-29_user-research-ethics.md`
+15. `2020-01-05_ux-quiz-2019.md`

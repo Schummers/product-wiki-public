@@ -1,0 +1,15 @@
+1. `2016-03-27_front-end-style-guides.md`
+2. `2016-04-10_list-entries.md`
+3. `2016-04-10_young-adults-ux.md`
+4. `2016-04-17_perceived-value.md`
+5. `2016-04-17_usability-test-checklist.md`
+6. `2016-04-24_fresh-start-effect.md`
+7. `2016-04-24_university-sites.md`
+8. `2016-05-01_enhancement.md`
+9. `2016-05-01_web-form-design.md`
+10. `2016-05-08_expandable-menus.md`
+11. `2016-05-08_trustworthy-design.md`
+12. `2016-05-15_needy-design-patterns.md`
+13. `2016-05-29_team-members-user-test.md`
+14. `2016-06-05_top-intranet-trends.md`
+15. `2016-06-12_embarrassment.md`

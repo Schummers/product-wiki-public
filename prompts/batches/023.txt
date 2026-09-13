@@ -1,0 +1,15 @@
+1. `2020-03-01_workshop-activities.md`
+2. `2020-03-08_mobile-tutorials.md`
+3. `2020-03-08_tools-remote-ux-workshops.md`
+4. `2020-03-15_discovery-phase.md`
+5. `2020-03-15_gif-emails.md`
+6. `2020-03-22_analyze-customer-journey-map.md`
+7. `2020-03-22_blueprint-fails-fixes.md`
+8. `2020-03-29_good-abandonment.md`
+9. `2020-03-29_remote-ux.md`
+10. `2020-04-05_how-people-read-online.md`
+11. `2020-04-05_passive-information-acquisition.md`
+12. `2020-04-12_listbox-dropdown.md`
+13. `2020-04-12_moderated-remote-usability-test-why.md`
+14. `2020-04-19_ux-career-advice.md`
+15. `2020-04-19_workshop-facilitation-101.md`

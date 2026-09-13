@@ -1,0 +1,15 @@
+1. `2021-05-02_pm-ux-different-views-of-responsibilities.md`
+2. `2021-05-09_common-ground.md`
+3. `2021-05-16_pain-points.md`
+4. `2021-05-16_vertical-nav.md`
+5. `2021-05-23_roadmapping-workshop.md`
+6. `2021-05-23_true-score.md`
+7. `2021-05-30_derailed-design-critiques.md`
+8. `2021-06-06_color-enhance-design.md`
+9. `2021-06-06_interview-facilitation-mistakes.md`
+10. `2021-06-13_metrics-qualitative.md`
+11. `2021-06-20_draw-wireframe-even-if-you-cant-draw.md`
+12. `2021-06-27_confidence-interval.md`
+13. `2021-07-04_feature-checklists-are-not-enough.md`
+14. `2021-07-04_local-navigation.md`
+15. `2021-07-11_5-test-users-qual-quant.md`

@@ -1,0 +1,15 @@
+1. `2021-07-11_usability-heuristics-virtual-reality.md`
+2. `2021-07-18_customer-journey-management.md`
+3. `2021-07-18_principle-closure.md`
+4. `2021-07-25_factors-ux-maturity.md`
+5. `2021-07-25_summary-quant-sample-sizes.md`
+6. `2021-08-01_overlay-overload.md`
+7. `2021-08-01_qualitative-rigor.md`
+8. `2021-08-08_ux-vs-service-design.md`
+9. `2021-08-15_usability-heuristics-complex-applications.md`
+10. `2021-08-22_design-thinking-study-guide.md`
+11. `2021-08-22_problem-statements.md`
+12. `2021-08-29_quantitative-research-study-guide.md`
+13. `2021-08-29_service-blueprints-choose-what-experience.md`
+14. `2021-09-05_designing-for-waits-and-interruptions.md`
+15. `2021-09-12_facilitating-ux-workshops-guide.md`

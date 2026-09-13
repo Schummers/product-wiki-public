@@ -1,0 +1,15 @@
+1. `2022-05-15_personas-archetypes.md`
+2. `2022-05-15_two-tips-better-ux-storytelling.md`
+3. `2022-05-22_intranet-search.md`
+4. `2022-05-29_usability-checklist.md`
+5. `2022-06-05_prototype-specifications.md`
+6. `2022-06-05_ux-roles-responsibilities.md`
+7. `2022-06-12_luxury-user-groups-journeys.md`
+8. `2022-06-19_pairing-typefaces.md`
+9. `2022-06-19_unmanned-restaurant-case-study.md`
+10. `2022-07-03_informed-consent.md`
+11. `2022-07-03_taxonomy-101.md`
+12. `2022-07-10_university-ux-professionals.md`
+13. `2022-07-17_using-grids-in-interface-designs.md`
+14. `2022-07-17_which-ux-research-methods.md`
+15. `2022-07-24_the-funnel-technique-in-qualitative-user-research.md`

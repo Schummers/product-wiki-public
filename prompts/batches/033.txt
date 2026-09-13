@@ -1,0 +1,15 @@
+1. `2021-12-19_journey-mapping-impact.md`
+2. `2021-12-19_paper-prototyping-cutout-kit.md`
+3. `2022-01-02_ux-maturity-stage-6.md`
+4. `2022-01-09_autonomy-relatedness-competence.md`
+5. `2022-01-16_mapping-in-discovery.md`
+6. `2022-01-16_state-ux-maturity-quiz.md`
+7. `2022-01-23_service-design-study-guide.md`
+8. `2022-01-30_choosing-chart-types.md`
+9. `2022-01-30_inclusive-design.md`
+10. `2022-02-06_clutter-charts.md`
+11. `2022-02-06_ux-vision-statements.md`
+12. `2022-02-13_cognitive-walkthroughs.md`
+13. `2022-02-13_contrast-charts.md`
+14. `2022-02-20_secondary-research-in-ux.md`
+15. `2022-03-06_alternatives-pagination-listing-pages.md`

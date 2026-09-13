@@ -1,0 +1,15 @@
+1. `2022-03-06_interview-questions-mistakes.md`
+2. `2022-03-13_confirmation-bias-ux.md`
+3. `2022-03-20_facial-recognition-payment.md`
+4. `2022-03-27_language-switching-ecommerce.md`
+5. `2022-04-01_recall-beats-recognition.md`
+6. `2022-04-03_data-tables.md`
+7. `2022-04-03_engaging-reports-presentations.md`
+8. `2022-04-10_cognitive-walkthrough-workshop.md`
+9. `2022-04-10_ia-study-guide.md`
+10. `2022-04-17_increase-user-autonomy.md`
+11. `2022-04-24_sizes-measurements-ecommerce.md`
+12. `2022-05-01_high-income-participants.md`
+13. `2022-05-01_ink-thinking.md`
+14. `2022-05-08_products-with-multiple-variants.md`
+15. `2022-05-08_ux-roadmaps-faq.md`

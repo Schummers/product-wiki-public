@@ -1,0 +1,15 @@
+1. `2020-01-12_animation-purpose-ux.md`
+2. `2020-01-12_persona-scope.md`
+3. `2020-01-19_instructional-video-guidelines.md`
+4. `2020-01-19_risks-imitating-designs.md`
+5. `2020-01-26_critical-incident-technique.md`
+6. `2020-01-26_information-seeking-behavior-changes.md`
+7. `2020-02-02_dark-mode.md`
+8. `2020-02-02_information-scent.md`
+9. `2020-02-09_animation-duration.md`
+10. `2020-02-09_user-testing-stepped-tasks.md`
+11. `2020-02-16_video-image-details.md`
+12. `2020-02-16_workshops-vs-meetings.md`
+13. `2020-02-23_calculating-roi-design-projects.md`
+14. `2020-02-23_drag-drop.md`
+15. `2020-03-01_principles-visual-design.md`

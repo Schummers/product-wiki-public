@@ -1,0 +1,15 @@
+1. `2025-07-11_saving-scroll-position.md`
+2. `2025-07-18_4-principles-reduce-cognitive-load.md`
+3. `2025-07-18_the-product-triad-designs-role.md`
+4. `2025-07-25_mixed-methods-research.md`
+5. `2025-07-25_strategies-complex-application-design.md`
+6. `2025-08-01_digital-twins.md`
+7. `2025-08-08_impressions-chatgpt-agent.md`
+8. `2025-08-08_research-yes-or-no.md`
+9. `2025-08-15_ai-changing-search-behaviors.md`
+10. `2025-08-15_ai-simulations-studies.md`
+11. `2025-08-22_ai-information-seeking-keyword-foraging.md`
+12. `2025-08-22_why-organizations-dont-do-user-research.md`
+13. `2025-08-29_informal-ux-maturity.md`
+14. `2025-08-29_user-ecosystem-thinking-anthropologic.md`
+15. `2025-09-05_smart-device-best-practices.md`

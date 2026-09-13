@@ -1,0 +1,64 @@
+---
+title: "Biggest Wins and Fails in 25 Years of UX Columns"
+date: "2020-05-24"
+url: "https://www.nngroup.com/articles/25-years-ux-wins-fails/"
+author: "Jakob Nielsen"
+topics: [web-usability]
+type: article
+---
+
+I started writing the Alertbox column about user experience in May 1995. Now, 25 years later, we have **published 1,330 UX articles** — all for free and available to the world-wide UX community. While these numbers average to one article per week, the actual publishing frequency has increased from one per month in the beginning to two per week in recent years.
+
+I thought it was worth looking back at the early articles to see how well they have held up to later developments in the fields of UX, computers, and the Internet. (Early articles focused mainly on web usability, whereas later articles have ranged widely across the UX spectrum.) As a concrete exercise, I reread my 250 first articles, written from May 1995 to December 2001.
+
+(For a different take on UX history, see the [articles from 1998–2018 that were the most popular](https://www.nngroup.com/articles/nielsen-norman-group-20-years/) with readers each year.)
+
+## In This Article:
+
+- [10 Biggest Wins](#toc-10-biggest-wins-1)
+- [7 Biggest Fails](#toc-7-biggest-fails-2)
+- [Half Win, Half Lose](#toc-half-win-half-lose-3)
+- [Right When Conservative, Wrong When Optimistic](#toc-right-when-conservative-wrong-when-optimistic-4)
+
+## 10 Biggest Wins
+
+The following are my 10 most striking successes: things I said between 1995 and 2001 that still ring absolutely true in 2020.
+
+1. **The Need for Speed** (1997). Response times are crucial for web usability, and sites with fast loading times have high [conversion rates](https://www.nngroup.com/articles/conversion-rates/). Still as true as ever. Unfortunately, when we [revisited the page-speed issue in 2020](https://www.nngroup.com/articles/the-need-for-speed/), we found that website response times are still pretty bad for desktop users (at 6 seconds) and are unacceptable for mobile users (at 20 seconds), given that the [response-time recommendations](https://www.nngroup.com/articles/response-times-3-important-limits/) are the same as ever: 1 second for great usability and 10 seconds for the longest acceptable wait.
+2. **How Users Read on the Web** (1997). The main guidelines for writing for the web remain unchanged, as demonstrated by our [newest eyetracking research on how people read on the web](https://www.nngroup.com/articles/how-people-read-online/).
+3. **Search and You May Find** (1997). As I said back then (a year before Google was founded), “Search is the primary interface to the Web for many users. Search should be global (not scoped to a subsite) and available from every page; booleans should be made intimidating since users usually use them wrong.” All still true.
+4. **Why Advertising Doesn't Work on the Web** (1997). [Banner blindness](https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/) has been confirmed again and again over the decades, including in our recent eyetracking studies. Worse, even [useful page elements are ignored if they look like ads](https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/).
+5. **Nielsen's Law of Internet Bandwidth**. Bandwidth grows by 50% per year (1998). My original analysis was based on 15 years of bandwidth data, from acoustic modems to ISDN, but the model fits the next 22 years of data as well. In particular, the conclusion that bandwidth grows exponentially, but lags behind computer power as characterized by Moore’s Law is still valid.
+6. **The Increasing Conservatism of Web Users** (1998). People want it plain and simple and don’t care about the latest technology, leading to the recommendation to be a few years behind the curve for optimal usability. Still the case.
+7. **WAP Backlash** (2000). In 1999, I said that WAP ought to stand for [Wrong Approach to Portability](https://www.nngroup.com/articles/graceful-degradation-of-scalable-internet-services/), and the following year we got terrible results from a [usability study of early WAP phones](https://www.nngroup.com/articles/wap-mobile-phones-field-study-findings/). Yet, all the big phone companies were huge WAP promoters and strongly criticized our research. But I was right: WAP phones never took off. (I was also right in 2001 when I asked “[Mobile Phones: Europe's Next Minitel?](https://www.nngroup.com/articles/mobile-phones-europes-next-minitel/)” and rejected the then-prevalent narrative that Europe would lead the mobile internet because of its mobile-phone dominance at the time. Instead, I stood by my 1997 point that “[Voice Is Just Another Datatype](https://www.nngroup.com/articles/telephone-usability/).” My 2001 analysis of [Japanese mobile products](https://www.nngroup.com/articles/japanese-products-map-the-mobile-road-ahead/) was right in having great expectations for mobile photography and definitely right in praising high-quality Japanese screens with better pixel density than the low-quality screens of American and European mobile devices.)
+8. **New Devices Augur Decent Mobile User Experience** (2000). Mobile devices should dedicate their entire surface area to the screen (not a keyboard) and embrace a deck-of-cards form factor. 7 years later (2007), the iPhone finally made this design recommendation happen. [However, the title of that article was too optimistic: yes, we [finally have decent mobile UX](https://www.nngroup.com/articles/state-mobile-ux/), but this didn’t happen nearly as fast as I expected in 2000.]
+9. **Flash 99% Bad** (2000). The Flash software itself is long gone from most websites, so in that sense I was proven right. But in a more fundamental way this article is still relevant, because most website [animation continues to be bad](https://www.nngroup.com/videos/distracting-animations/) for usability. Yes, [animation can be used for good UX](https://www.nngroup.com/articles/animation-purpose-ux/), but rarely is.
+10. **Avoid PDF for On-Screen Reading** (2001). As I said in my 2003 followup article, for online reading, [PDF is the monster from the Black Lagoon](https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/). Our [latest research](https://www.nngroup.com/articles/avoid-pdf-for-on-screen-reading/) has basically the same conclusions, though the technical problems with PDF have declined over the years.
+
+In 2000, I published the article **Why You Only Need to Test with 5 Users**. However, I’m not including this article in the above top-10 list of insights from 1995–2001 because it was based on my much earlier work on [discount usability](https://www.nngroup.com/videos/discount-usability-30-years/) from 1989­–1993. Still, the point of small-N user testing continues to be proven right, and anybody who does qualitative usability testing has found the same thing: that you don’t learn much new about your design after the first handful of users. Better to engage in [iterative design](https://www.nngroup.com/articles/parallel-and-iterative-design/) to improve the user interface and then test it again with a new handful of users.
+
+## 7 Biggest Fails
+
+The following are my 10 most egregious failures from the 1995–2001 period: things I predicted but that definitely didn’t turn out the way I thought.
+
+1. **The Death of File Systems** (1996). File systems didn’t die, and files and directories are still the main way in which personal information is organized. One point remains as true as ever: that users are bad at generating good file names and have difficulty recognizing a name and remembering what it stands for at later times. Local search has emerged as the main solution to this naming problem. Some information spaces use different organizational schemes — notably, camera rolls and social media walls are simply sorted by time. The deeper problems in personal information management remain unsolved.
+2. **Trends for the Web in 1997** (1997). Semantic data encoding didn’t happen! Website data is as stupid and unstructured as ever. Instead, there’s now a trend to use AI to interpret natural-language information on websites and aggregate it on outside “scraping” services — sometimes causing hilarious mistakes and sometimes generating useful content. Unfortunately, it’s unrealistic to expect either individual users or even professional business operations to invest time upfront to structure data in order to facilitate later reuse. People always focus on the immediate use case and neglect the future. (My second 1997 prediction, “taking the web seriously as a business tool”, did happen. It’s interesting that the web was so unprofessional in the early days that stating that things would have to change was a provocative prediction at the time.)
+3. **Loyalty on the Web** (1997). I said that the cultivation of loyal users was one of the best ways of growing business value for a website, and I still believe this. However, very few sites have loyalty-supporting features like the ones I predicted.
+4. **Do Websites Have Increasing Returns?** (1997). I predicted that the biggest websites would be huge (which did happen) but that the cumulative value of smaller sites would still be bigger. While some small sites definitely have disproportional business value, it has unfortunately turned out to be possible for web-wide aggregators to skim off more value than they deserve from the work spent creating smaller websites. [Government regulations like GDPR and incredibly complex sales tax rules bear part of the blame by disproportionally supporting large sites through smothering small sites with overhead burdens.]
+5. **The Reputation Manager** (1998). I expected the web to be heavily based on automated ratings of how well various sites and services had served users in the past. Search engines do sort results based on a form of reputation ranking, but that is not a true user-derived score. The main home for reputation managers is currently on marketplace platforms like eBay and Amazon’s third-party sellers, which are ranked by user feedback, and only the brave (or reckless) dare place an order with somebody with too few stars.
+6. **The Case for Micropayments** (1998). I expected the web to evolve toward a model where users pay for service, but mainly on a per-use basis instead of subscriptions. Micropayments would have supported a wider and more diverse set of high-quality content services than the mainly advertising-dominated lower-quality services we have today.
+7. **Request Marketing** (2000). People should be able to tell a company what they are interested in, and then the company will sell them those products when available. This feature is almost non-existent, 20 years later. In general, current systems offer poor support for future-oriented interactions, where users indicate an interest in events to happen at a later date. The main example of request marketing is that many ecommerce sites do allow users to ask to be notified when an out-of-stock item becomes available. There is so much more that could be done with this idea.
+
+I don’t feel particularly ashamed of these failures. Nobody is perfect, particularly 20 years later. I always aimed to be reasonably hard-hitting in my articles, which I thought would be both more interesting and more useful to readers than wishy­­–washy content where I didn’t dare take a stand.
+
+## Half Win, Half Lose
+
+- **The End of Legacy Media (Newspapers, Magazines, Books, TV Networks)** (1998). I expected legacy media to be dead within 10 years of writing the article, or in 2008. That clearly didn’t happen, so a failure on my part. On the other hand, most legacy media forms are dying, so I still claim to have mainly been right.
+
+## Right When Conservative, Wrong When Optimistic
+
+Looking back at the 10 wins, 7 fails, and 1 half–half prediction, I was mainly right when I was being conservative: when I relied on users being resistant toward fancy technology and preferring simplicity. It’s striking how many of these long-lasting insights were based on a small base of qualitative user research. You don’t need a lot of users if you really look deeply at what they’re doing and understand why.
+
+Conversely, I mainly failed when I was being optimistic and expecting big changes. Complex systems, such as the internet and the business ecosystem, are hard to move and often resist improvements that seem valuable but are too hard to make happen.
+
+My most aggressive prediction of all, “**In the Future, We'll All Be Harry Potter**,” was from 2002 and so outside the scope of the present analysis. It’s also to early to tell whether it will happen. But I retain a bit of optimism in this case — and it was certainly safer for me to talk about “in the future” as opposed to “in 10 years.” Specificity easily makes predictions wrong, even when the general thrust is right.

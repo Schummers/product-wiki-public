@@ -1,0 +1,15 @@
+1. `2024-07-10_growing-your-ux-career-study-guide.md`
+2. `2024-07-12_artificial-intelligence-glossary.md`
+3. `2024-07-19_micro-conversions.md`
+4. `2024-07-19_top-tasks.md`
+5. `2024-07-26_sludge-decisions.md`
+6. `2024-07-26_why-repositories-fail.md`
+7. `2024-08-02_prompt-controls-genai.md`
+8. `2024-08-02_tabs-used-right.md`
+9. `2024-08-09_sensitive-questions.md`
+10. `2024-08-09_ux-deliverables-glossary.md`
+11. `2024-08-16_ai-magic-8-ball.md`
+12. `2024-08-16_stages-of-ux-career-progression.md`
+13. `2024-08-23_explicit-differences.md`
+14. `2024-08-30_ab-testing.md`
+15. `2024-09-06_ai-data-prototype-testing.md`

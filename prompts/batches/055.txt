@@ -1,0 +1,15 @@
+1. `2025-09-05_vr-hype-cycle-lessons-for-ai.md`
+2. `2025-09-12_physical-discs-streaming-experience.md`
+3. `2025-09-12_smart-device-onboarding.md`
+4. `2025-09-19_signs-of-ux-maturity-regression.md`
+5. `2025-09-19_smarts-emotion-trust-ai.md`
+6. `2025-09-26_7-ai-sins.md`
+7. `2025-09-26_developer-designer-relationship.md`
+8. `2025-10-03_persona.md`
+9. `2025-10-03_ux-metrics-goals.md`
+10. `2025-10-10_liquid-glass.md`
+11. `2025-10-10_screener-foils.md`
+12. `2025-10-17_google-ai-mode.md`
+13. `2025-10-21_ai-functionality-study-guide.md`
+14. `2025-10-21_ai-work-study-guide.md`
+15. `2025-10-21_designing-ai-study-guide.md`

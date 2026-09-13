@@ -1,0 +1,15 @@
+1. `2019-01-27_tooltip-guidelines.md`
+2. `2019-02-03_errors-forms-design-guidelines.md`
+3. `2019-02-03_mental-model-ai-assistants.md`
+4. `2019-02-03_status-tracker-progress-update.md`
+5. `2019-02-10_interface-copy-decision-making.md`
+6. `2019-02-10_research-journey-mapping.md`
+7. `2019-02-17_top-10-application-design-mistakes.md`
+8. `2019-02-17_ux-retrospectives.md`
+9. `2019-02-24_footers.md`
+10. `2019-02-24_responding-skepticism-small-usability-tests.md`
+11. `2019-03-03_ui-copy.md`
+12. `2019-03-03_unbridged-knowledge-gaps.md`
+13. `2019-03-10_ux-researcher-portfolio.md`
+14. `2019-03-17_contextual-menus.md`
+15. `2019-03-17_usability-of-websites-for-teenagers.md`

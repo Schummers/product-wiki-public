@@ -1,0 +1,15 @@
+1. `2020-08-02_gestalt-proximity.md`
+2. `2020-08-09_complex-application-design-framework.md`
+3. `2020-08-09_pdf-unfit-for-human-consumption.md`
+4. `2020-08-16_omnichannel-orchestration.md`
+5. `2020-08-16_research-ops-101.md`
+6. `2020-08-23_accordion-icons.md`
+7. `2020-08-23_problem-participants-remote-unmoderated.md`
+8. `2020-08-30_covid-changed-users.md`
+9. `2020-08-30_virtual-tours.md`
+10. `2020-09-06_gestalt-similarity.md`
+11. `2020-09-13_product-ux-benchmarks.md`
+12. `2020-09-20_service-blueprinting-workshops.md`
+13. `2020-09-20_task-analysis.md`
+14. `2020-09-27_new-browser-windows-and-tabs.md`
+15. `2020-10-04_recruit-backup-users-in-research.md`

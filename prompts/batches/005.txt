@@ -1,0 +1,15 @@
+1. `2016-10-23_design-critiques.md`
+2. `2016-10-23_negativity-bias-ux.md`
+3. `2016-10-30_observer-guidelines.md`
+4. `2016-10-30_power-law-learning.md`
+5. `2016-10-30_top-10-enduring.md`
+6. `2016-11-06_cards-component.md`
+7. `2016-11-06_china-website-complexity.md`
+8. `2016-11-13_computer-skill-levels.md`
+9. `2016-11-13_return-visits-not-bounce.md`
+10. `2016-11-20_ux-thanks.md`
+11. `2016-11-27_app-lockers.md`
+12. `2016-11-27_top-intranet-design-mistakes.md`
+13. `2016-12-04_channels-devices-touchpoints.md`
+14. `2016-12-04_wireflows.md`
+15. `2016-12-11_mobile-content.md`

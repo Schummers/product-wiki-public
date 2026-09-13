@@ -1,0 +1,15 @@
+1. `2021-02-28_interview-guide.md`
+2. `2021-02-28_livestream-ecommerce-china.md`
+3. `2021-03-07_journey-mapping-tips.md`
+4. `2021-03-07_why-does-design-look-good.md`
+5. `2021-03-14_asset-mapping.md`
+6. `2021-03-14_framework-cx-transformation.md`
+7. `2021-03-21_crosscultural-design.md`
+8. `2021-03-21_visual-design-heuristics-posters.md`
+9. `2021-03-28_keyword-foraging.md`
+10. `2021-03-28_scenario-mapping-personas.md`
+11. `2021-04-04_sticky-headers.md`
+12. `2021-04-11_design-systems-101.md`
+13. `2021-04-18_why-international-usability-testing.md`
+14. `2021-04-25_omnichannel-collaboration.md`
+15. `2021-04-25_surface-duo.md`
